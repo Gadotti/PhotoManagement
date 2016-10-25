@@ -1,0 +1,11 @@
+E:\Sistemas\PhotoManagement\PhotoManagement\bin\Release\PhotoManagement.exe
+E:\Sistemas\PhotoManagement\PhotoManagement\bin\Release\PhotoManagement.pdb
+E:\Sistemas\PhotoManagement\PhotoManagement\bin\Release\PhotoManagement.xml
+E:\Sistemas\PhotoManagement\PhotoManagement\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Sistemas\PhotoManagement\PhotoManagement\obj\x86\Release\PhotoManagement.frmPrincipal.resources
+E:\Sistemas\PhotoManagement\PhotoManagement\obj\x86\Release\PhotoManagement.Resources.resources
+E:\Sistemas\PhotoManagement\PhotoManagement\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Sistemas\PhotoManagement\PhotoManagement\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Sistemas\PhotoManagement\PhotoManagement\obj\x86\Release\PhotoManagement.exe
+E:\Sistemas\PhotoManagement\PhotoManagement\obj\x86\Release\PhotoManagement.xml
+E:\Sistemas\PhotoManagement\PhotoManagement\obj\x86\Release\PhotoManagement.pdb
